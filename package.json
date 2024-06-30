@@ -5,9 +5,9 @@
   "type": "module",
   "main": "parking-lot.js",
   "scripts": {
-    "parking-lot": "node parking-lot.js",
-    "key-press": "node key-press.js",
-    "word-diff": "node word-diff.js"
+    "parking-lot": "node tasks/parking-lot.js",
+    "key-press": "node tasks/key-press.js",
+    "word-diff": "node tasks/word-diff.js"
   },
   "keywords": [
     "parking-lot",

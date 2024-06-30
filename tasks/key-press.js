@@ -62,7 +62,3 @@ rl.on('line', (input) => {
 //     });
 //     console.log(map);
 // });
-
-
-
-
