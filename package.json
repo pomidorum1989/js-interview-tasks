@@ -1,0 +1,24 @@
+{
+  "name": "js-interview-tasks",
+  "version": "1.0.0",
+  "description": "Solving js interview questions",
+  "type": "module",
+  "main": "parking-lot.js",
+  "scripts": {
+    "parking-lot": "node parking-lot.js",
+    "key-press": "node key-press.js",
+    "word-diff": "node word-diff.js"
+  },
+  "keywords": [
+    "parking-lot",
+    "word-diff",
+    "key-press"
+  ],
+  "author": "VDorum",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.6.0"
+  }
+}
