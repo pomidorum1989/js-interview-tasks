@@ -48,8 +48,6 @@ class Motocycle extends Transport {
     }
 }
 
-
-
 class ParkingLot {
     #slots = []
 

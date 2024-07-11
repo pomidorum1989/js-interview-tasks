@@ -7,12 +7,14 @@
   "scripts": {
     "parking-lot": "node tasks/parking-lot.js",
     "key-press": "node tasks/key-press.js",
-    "word-diff": "node tasks/word-diff.js"
+    "word-diff": "node tasks/word-diff.js",
+    "hash-logs": "node tasks/hash-logs.js"
   },
   "keywords": [
     "parking-lot",
     "word-diff",
-    "key-press"
+    "key-press",
+    "hash-logs"
   ],
   "author": "VDorum",
   "license": "ISC",
