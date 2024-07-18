@@ -8,13 +8,15 @@
     "parking-lot": "node tasks/parking-lot.js",
     "key-press": "node tasks/key-press.js",
     "word-diff": "node tasks/word-diff.js",
-    "hash-logs": "node tasks/hash-logs.js"
+    "hash-logs": "node tasks/hash-logs.js",
+    "valid-parenthesses": "node tasks/valid-parenthesses.js"
   },
   "keywords": [
     "parking-lot",
     "word-diff",
     "key-press",
-    "hash-logs"
+    "hash-logs",
+    "valid-parenthesses"
   ],
   "author": "VDorum",
   "license": "ISC",
